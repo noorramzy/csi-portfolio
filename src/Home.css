@@ -1,0 +1,47 @@
+.image {
+    margin-right:80px;
+    padding:30px;
+    overflow: hidden;
+}
+
+.claw-image{
+    width:500px;
+}
+
+.image-container{
+    width: 50%;
+}
+
+.whole{
+    justify-content: center;
+}
+
+.words{
+    margin: 60px;
+    padding: 50px;
+}
+
+.inner-words{
+    margin-top: 10px;
+}
+
+.smaller{
+    width: 100%;
+    display: inline-flex;
+    justify-content: center;
+    text-align: justify;
+}
+
+.toptop{
+    font-family: 'Barrio', cursive;
+    font-size: 75px;
+    text-align:center;
+    color:blue;
+
+}
+.home-title{
+    margin-top: 30px;
+    text-align: left;
+    font-size: 40px;
+    font-family: 'Barrio', cursive;
+}

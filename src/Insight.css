@@ -1,0 +1,29 @@
+
+.title {
+    margin-top: 30px;
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Barrio', cursive;
+}
+
+.welcome{
+    margin-left:20px;
+    padding: 24px;
+    background-color: burlywood;
+    font-size: larger;
+    text-align: center;
+    font-family: 'Barrio', cursive;
+}
+
+.insights-stack{
+    display:inline-flex;
+    padding:40px;
+}
+
+.text{
+    margin-left: 20px;
+    margin-top: 5px;
+    padding: 24px;
+    background-color: lightgreen;
+}
+

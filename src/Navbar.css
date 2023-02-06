@@ -1,0 +1,35 @@
+.navbar {
+    background-color:lightgrey;
+    margin: 10px;
+    padding: 10px;
+    font-family: 'Barrio', cursive;
+    font-size: 30px;
+    display: inline-flex;
+}
+
+.main-nav-link {
+    padding:10px;
+    color:purple;
+    margin-right: 17px;
+
+  }
+
+.active {
+    color:lightgreen;
+    background-color: darkcyan;
+    padding:10px
+}
+
+.nav {
+    display: flex;
+}
+
+.column-right{
+    align-content: right;
+    width:50%;
+}
+.name{
+    text-align: right;
+    padding: 10px;
+    justify-content: center;
+}
